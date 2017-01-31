@@ -1,0 +1,46 @@
+
+h3 {
+  color: red;
+  background-color: blue;
+  align-content: center;
+
+}
+
+body
+{color:blue;
+background-color: pink;
+border-spacing: 15px;15 px;
+border-style: dashed;
+border-width: medium;}
+
+
+
+p {border-bottom: dashed;
+border-color: red;}
+
+.active {
+    background-color: #6666ff;
+    color: white;
+}
+
+
+div {color: inherit;
+  background-color: gray;
+  border-spacing: inherit;
+
+}
+
+ul
+{color: lightgreen;
+  background-color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+  }
+
+footer {
+  margin-right: auto;
+  margin-left: auto;
+  background-color: gray;
+}
